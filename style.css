@@ -143,7 +143,7 @@
 .flag {
   width: 20px;
   height: 15px;
-  background-image: url("./Images/india.JPG");
+  background-image: url("./Images/india.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -254,7 +254,7 @@ a.border {
   width: 100%;
   height: 350px;
   background-size: cover;
-  background-image: url("./Images/background.JPG");
+  background-image: url("./Images/background.png");
 }
 .shop-one {
   background: linear-gradient(to bottom, #0678ff, rgb(255, 255, 255));
