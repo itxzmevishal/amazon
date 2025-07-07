@@ -35,7 +35,7 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("/Images/logo.png");
+  background-image: url("../Images/logo.png");
 }
 
 /* Box two */
@@ -143,7 +143,7 @@
 .flag {
   width: 20px;
   height: 15px;
-  background-image: url("/images/india.jpg");
+  background-image: url("../images/india.JPG");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -254,7 +254,7 @@ a.border {
   width: 100%;
   height: 350px;
   background-size: cover;
-  background-image: url("/Images/background.jpg");
+  background-image: url("../Images/background.JPG");
 }
 .shop-one {
   background: linear-gradient(to bottom, #0678FF, rgb(255, 255, 255));
@@ -348,7 +348,7 @@ li{
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("/Images/logo.png");
+  background-image: url("../Images/logo.png");
 }
 .copyright1{
   background-color: #0F1111;
