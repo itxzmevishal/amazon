@@ -35,7 +35,7 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("Images/logo.png");
+  background-image: url("./Images/logo.png");
 }
 
 /* Box two */
@@ -143,7 +143,7 @@
 .flag {
   width: 20px;
   height: 15px;
-  background-image: url("Images/india.JPG");
+  background-image: url("./Images/india.JPG");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -254,15 +254,15 @@ a.border {
   width: 100%;
   height: 350px;
   background-size: cover;
-  background-image: url("Images/background.JPG");
+  background-image: url("./Images/background.JPG");
 }
 .shop-one {
-  background: linear-gradient(to bottom, #0678FF, rgb(255, 255, 255));
-  background-color: #0678FF;
+  background: linear-gradient(to bottom, #0678ff, rgb(255, 255, 255));
+  background-color: #0678ff;
   display: flex;
   justify-content: space-around;
 }
-.shop-two{
+.shop-two {
   margin-top: 20px;
   background-color: rgb(255, 255, 255);
   display: flex;
@@ -274,29 +274,29 @@ a.border {
   height: 350px;
   padding: 20px 0px 15px 15px;
   font-size: small;
-  font-weight:600;
+  font-weight: 600;
   width: 23%;
 }
-.image-class{
+.image-class {
   height: 80%;
   width: 90%;
   background-size: cover;
 }
-.shop-now-style{
+.shop-now-style {
   margin: 3px;
   text-decoration: none;
   color: rgb(0, 55, 255);
 }
-.shop-now-style:hover{
+.shop-now-style:hover {
   text-decoration: none;
 }
 
 /* Footer Section */
 
-footer{
-  margin-top: 20px ;
+footer {
+  margin-top: 20px;
 }
-.foot-panel1{
+.foot-panel1 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -305,68 +305,66 @@ footer{
   width: 100%;
   background-color: #485769;
 }
-.foot-panel2{
+.foot-panel2 {
   display: flex;
-  padding-top:20px ;
+  padding-top: 20px;
   justify-content: space-evenly;
   height: 290px;
   width: 100%;
-  background-color: #232F3E;
+  background-color: #232f3e;
 }
-.bold{
+.bold {
   font-weight: bolder;
   font-size: large;
 }
 ul li {
   margin: 10px;
   font-size: 0.85rem;
-  
 }
-li{
+li {
   font-size: 0.9rem;
   text-decoration: none;
   list-style: none;
 }
-.foot-panel2{
+.foot-panel2 {
   color: #dddddd;
   display: flex;
 }
-.foot-panel3{
-  background-color: #232F3E;
-  border-top: 0.10px solid #dddddd;
+.foot-panel3 {
+  background-color: #232f3e;
+  border-top: 0.1px solid #dddddd;
   height: 50px;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-
 }
-.logo2{
+.logo2 {
   margin-top: 10px;
   width: 100px;
   height: 40px;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("Images/logo.png");
+  background-image: url("./Images/logo.png");
 }
-.copyright1{
-  background-color: #0F1111;
+.copyright1 {
+  background-color: #0f1111;
   width: 100%;
   height: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.copyright1 a{
+.copyright1 a {
   text-decoration: none;
   color: white;
   margin-left: 5px;
   margin-right: 5px;
 }
-.copyright2{
+.copyright2 {
   height: 30px;
   text-align: center;
-  background-color: #0F1111;
-  color: white  ;
+  background-color: #0f1111;
+  color: white;
 }
